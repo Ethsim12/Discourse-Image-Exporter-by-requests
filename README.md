@@ -33,3 +33,5 @@ images_3-random-numbers.zip
 │
 └── (repeated for every image...)
 ```
+
+where a `data-base62-sha1.EXT` is `AOosHsblEJnzUvcYQpjjYJ1287Q.png`
